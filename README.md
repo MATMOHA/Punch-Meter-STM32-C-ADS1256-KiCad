@@ -88,3 +88,7 @@ Direct physical impacts on an S-beam load cell introduce off-axis shear force an
 ├── mechanical/        # Assembly diagrams and bolt spec documentation
 └── README.md          # Project documentation
 ```
+
+## DEMO
+https://github.com/user-attachments/assets/6357e640-69b7-4168-8ffd-164a767968b1
+
